@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T00:49:18.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D5BwWduebQWwB-WDi4E7" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T06:42:17.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rJkVGORzBfwooBubTWf4" version="21.6.6" type="github">
   <diagram name="what-is-thread" id="VI880W7bSloKASdDrTB5">
-    <mxGraphModel dx="901" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="TSOGVDyj9EcASC1HtU-e-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="TSOGVDyj9EcASC1HtU-e-48" source="TSOGVDyj9EcASC1HtU-e-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="90" as="targetPoint" />
+            <mxPoint x="520" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TSOGVDyj9EcASC1HtU-e-49" value="Timed waiting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TSOGVDyj9EcASC1HtU-e-48">
